@@ -1,0 +1,2 @@
+# TheNayBot
+Discord Bot
