@@ -1,6 +1,5 @@
 # TheNayBot
-Discord Bot
+## Discord Bot
 
-
-It's a discord bot to have fun with your friends while chilling in Discord VC and playing fun games..
-
+It's a discord bot to have fun with your friends while chilling in Discord VC and playing fun games.  
+Built using `discord.py` Python API.
